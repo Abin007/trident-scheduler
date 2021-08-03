@@ -2,7 +2,7 @@ name: Cron - run combined test(Alk, Ca, Mg)
 
 on:
   schedule:
-    - cron: "49 20 * * *"
+    - cron: "00 21 * * *"
 
 
 jobs:
